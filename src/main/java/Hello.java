@@ -2,6 +2,6 @@ class Hello
 {
    public static void main(String args[])
    {
-      System.out.println("Hello World - Poll Scm test commit");
+      System.out.println("Hello World - Github hook test commit");
    }
 }
